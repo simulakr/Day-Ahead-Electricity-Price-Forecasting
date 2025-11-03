@@ -1,0 +1,3 @@
+EPİAŞ Piyasa Takas Fiyatı (PTF)
+EPİAŞ Gerçek Zamanlı Tüketim
+EPİAŞ Gerçek Zamanlı Üretim
