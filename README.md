@@ -70,17 +70,17 @@ Compared multiple algorithms:
 - **54% improvement** over baseline (MAE: 394 → 180)
 
 ### Feature Importance
-![Feature Importance](feature_importances.PNG)
+![Feature Importance](pngs/feature_importances.PNG)
 
 Top predictors: Lag features (PTF_lag1, PTF_lag24), consumption, natural gas generation, and renewable share.
 
 ### Predictions vs Actual
-![Predictions](predictions.PNG)
+![Predictions](pngs/predictions.PNG)
 
 The model accurately captures price volatility and patterns across different time periods.
 
 ### Trading Strategy Results
-![Trading Strategy](trading_strategy.PNG)
+![Trading Strategy](pngs/trading_strategy.PNG)
 
 The momentum-based strategy demonstrates the practical application of price forecasting in energy trading.
 
